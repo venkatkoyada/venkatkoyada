@@ -3,7 +3,7 @@
 I'm currently pursuing my Master's in Electrical & Computer Engineering at Portland State University (graduating Dec 2027), with Design Verification as my primary focus and Computer Architecture as a secondary interest. Most of my work so far has been around writing testbenches and figuring out how to catch bugs before they become real problems in silicon.
 
 M.S. Electrical & Computer Engineering, Portland State University (Dec 2027)
-Focus: Design Verification | Secondary: Computer Architecture
+Focus: Design Verification,Computer Architecture
 
 Coursework so far: Introduction to SystemVerilog, Microprocessor System Design, Pre-Silicon Verification and Validation, Computer Architecture
 
