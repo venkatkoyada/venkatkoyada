@@ -25,4 +25,4 @@ Email: sumanthkoyada@gmail.com
 ---
 
 ### Tech Stack
-SystemVerilog, UVM, C/C++, Python, Makefile
+SystemVerilog, UVM, C/C++, Makefile
