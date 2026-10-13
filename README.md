@@ -16,6 +16,7 @@ Email: sumanthkoyada@gmail.com
 
 **Design Verification**
 - [2D Systolic Array Matrix-Multiplication Accelerator](https://github.com/venkatkoyada/DESIGN-AND-VERIFICATION-OF-PARAMETERIZED-SYSTOLIC-MATRIX-ACCELERATOR) - SystemVerilog/UVM testbench for a parameterized systolic array accelerator, done as part of a 3-person team project.
+- - [UVM Memory Controller Verification](https://github.com/venkatkoyada/uvm-memory-model-verification) - UVM 1.2 testbench with reference-model scoreboard, functional coverage and SVA; 6 tests, 18-run seeded regression, 100% functional and line/branch coverage on Synopsys VCS; found and fixed 2 RTL bugs.
 - [AMBA AXI4-Lite Verification](https://github.com/venkatkoyada/Design-and-Verification-of-AMBA-AXI4-Lite-Protocol) - Class-based, self-checking testbench with 42 test cases covering corner cases, run on QuestaSim.
 
 **Computer Architecture**
