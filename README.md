@@ -26,4 +26,4 @@ Email: sumanthkoyada@gmail.com
 ---
 
 ### Tech Stack
-SystemVerilog, UVM, C/C++, Makefile
+SystemVerilog, UVM, SVA, Functional Coverage, Synopsys VCS / Verdi / URG, QuestaSim, C/C++, Makefile, Git
